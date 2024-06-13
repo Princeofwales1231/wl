@@ -1,4 +1,4 @@
-{ {
+return { {
     name = "X Fighter Trainer",
     nickname = "X Fighter",
     requiredValue = 0,
